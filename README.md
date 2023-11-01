@@ -13,6 +13,7 @@ Email válido para certificação SSL
 To install the SSL certificate, follow the **[instructions](https://certbot.eff.org/instructions?ws=other&os=ubuntufocal)** below.
 
 ## Vamos instalar?
+apt-get update -y; apt-get upgrade -y;
 
 cd /home && apt install -y git && git clone https://github.com/afcindaia/InstallChatWhaticketSassKing.git InstallChatWhaticketSassKing && sudo chmod -R 777 InstallChatWhaticketSassKing  && cd InstallChatWhaticketSassKing  && sudo ./install_primaria
 
