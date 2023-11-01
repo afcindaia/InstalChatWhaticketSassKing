@@ -14,6 +14,6 @@ To install the SSL certificate, follow the **[instructions](https://certbot.eff.
 
 ## Vamos instalar?
 
-    cd /home && git clone https://github.com/afcindaia/InstallChatWhaticketSassKing.git
+cd /home && apt install -y git && git clone https://github.com/afcindaia/InstallChatWhaticketSassKing.git install_whaticket && sudo chmod -R 777 install_whaticket  && cd install_whaticket  && sudo ./install_primaria
 
 
